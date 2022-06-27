@@ -1,0 +1,1 @@
+/root/workspace/vscode-workspace/rust/Chapter12/minigrep/target/debug/minigrep: /root/workspace/vscode-workspace/rust/Chapter12/minigrep/src/lib.rs /root/workspace/vscode-workspace/rust/Chapter12/minigrep/src/main.rs
